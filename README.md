@@ -1,2 +1,3 @@
 # go-loadBalancer
-# go-loadBalancer
+A basic load balancer written in Golang implementing Round Robin, !for prod obviously...
+Tested using curl.
